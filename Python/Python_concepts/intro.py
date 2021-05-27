@@ -1,0 +1,6 @@
+print("Hi","My name is Shiraz")
+print("I am 18 years old")
+print("I study at PEC in CSE branch")
+print("I live near Mohali")
+print("My hobby is to play cricket")
+exit()
