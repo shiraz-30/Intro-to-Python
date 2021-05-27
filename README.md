@@ -1,2 +1,2 @@
 # Intro-to-Python
-This repository contains the main concepts and fundamentals used in Python programming language. 
+This repository contains the main concepts, fundamentals, and problems used in Python programming language. 
